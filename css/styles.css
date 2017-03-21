@@ -1,3 +1,15 @@
+
+.dark-background{
+  background-color: #003459;
+  color: #fff;
+}
+
+.light-background{
+  background-color: #B3DEC1;
+  color:#000000;
+}
+
+
 .initial-hidden {
   display: none;
 }
