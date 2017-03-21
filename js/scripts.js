@@ -15,4 +15,8 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("light-background");
   });
+  // $(".initial-hidden").click(function() {
+  //   $("body").removeClass();
+  //   $("body").addClass("initial-hidden");
+  // });
 });
